@@ -3,7 +3,7 @@ from pprint import pprint
 from criando_banco import dao
 
 d = dao()
-
+## pegar token no site do https://developers.facebook.com/tools/explorer/145634995501895/?method=GET&path=me&version=v2.3
 token = ''
 
 ids_pages = ['320033178143669','656041921137604','1447067488906490','1431849273799074','233680560160631','241341586064569','803005986480403','253946268141958','1464043183838725','1623122437904948','706728776102230']
